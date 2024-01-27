@@ -1,0 +1,500 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,20001116,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:11 PM
+1,0,10,1,20001116,Jump Ball Grant vs. Mutombo: Tip to Hill,,12:00,1,4,5,5,258,Brian Grant,MIA,Miami,1610612748,Heat,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,,,,12:12 PM
+2,1,1,2,20001116,,,11:45,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,Feb-00,-2,Iverson 21' Jump Shot (2 PTS),12:13 PM
+3,1,6,3,20001116,,,11:28,1,5,0,1,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill P.FOUL (P1.T1),12:13 PM
+4,1,1,4,20001116,Mason 17' Jump Shot (2 PTS),,11:19,1,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,2-Feb,TIE,,12:13 PM
+5,1,2,5,20001116,,,10:56,1,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Lynch 22' Jump Shot,12:14 PM
+6,0,4,6,20001116,Mason REBOUND (Off:0 Def:1),,10:54,1,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:14 PM
+7,42,2,7,20001116,MISS Majerle  Driving Layup,,10:49,1,4,0,0,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:14 PM
+8,0,4,8,20001116,,,10:47,1,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Snow REBOUND (Off:0 Def:1),12:14 PM
+9,5,1,9,20001116,,,10:44,1,5,5,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,2-Apr,-2,Lynch  Layup (2 PTS) (Snow 1 AST),12:14 PM
+10,2,6,10,20001116,Hardaway S.FOUL (P1.T1),,10:44,1,4,0,1,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:14 PM
+11,10,3,11,20001116,,,10:44,1,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Lynch Free Throw 1 of 1,12:14 PM
+12,0,4,12,20001116,Grant REBOUND (Off:0 Def:1),,10:43,1,4,0,0,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:14 PM
+13,1,2,13,20001116,MISS Grant 14' Jump Shot,,10:26,1,4,0,0,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:15 PM
+14,0,4,14,20001116,,,10:24,1,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:0 Def:1),12:15 PM
+15,1,2,15,20001116,,,10:08,1,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Hill 17' Jump Shot,12:15 PM
+16,0,4,16,20001116,Mason REBOUND (Off:0 Def:2),,10:06,1,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:15 PM
+17,1,2,17,20001116,MISS Bowen 4' Jump Shot,,9:53,1,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:15 PM
+18,0,4,18,20001116,,,9:51,1,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:0 Def:2),12:15 PM
+19,42,1,19,20001116,,,9:45,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,2-Jun,-4,Iverson  Driving Layup (4 PTS),12:15 PM
+20,2,9,20,20001116,HEAT Timeout: Short (Full 0 Short 1),,9:38,1,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,12:16 PM
+21,1,2,22,20001116,MISS Grant 7' Jump Shot,,9:25,1,4,0,0,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:17 PM
+22,0,4,23,20001116,,,9:24,1,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:0 Def:1),12:17 PM
+23,1,1,24,20001116,,,9:15,1,5,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,2-Sep,-7,Iverson 24' 3PT Jump Shot (7 PTS) (Mutombo 1 AST),12:17 PM
+24,1,1,25,20001116,Grant 17' Jump Shot (2 PTS) (Majerle 1 AST),,8:54,1,4,4,0,258,Brian Grant,MIA,Miami,1610612748,Heat,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,4-Sep,-5,,12:17 PM
+25,1,2,26,20001116,,,8:32,1,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Snow 20' Jump Shot,12:18 PM
+26,0,4,27,20001116,Mason REBOUND (Off:0 Def:3),,8:30,1,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:18 PM
+27,1,2,28,20001116,MISS Mason 15' Jump Shot,,8:20,1,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:18 PM
+28,0,4,29,20001116,,,8:19,1,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:0 Def:3),12:18 PM
+29,1,2,30,20001116,,,8:04,1,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Mutombo 14' Jump Shot,12:18 PM
+30,0,4,31,20001116,Majerle REBOUND (Off:0 Def:1),,8:02,1,4,0,0,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:18 PM
+31,1,5,32,20001116,Hardaway Bad Pass Turnover (P1.T1),,7:58,1,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:18 PM
+32,0,8,33,20001116,,,7:58,1,5,5,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,1908,Jumaine Jones,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Jones FOR Lynch,12:18 PM
+33,1,1,34,20001116,,,7:41,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,4-Nov,-7,Iverson 20' Jump Shot (9 PTS),12:19 PM
+34,1,1,35,20001116,Grant 20' Jump Shot (4 PTS) (Hardaway 1 AST),,7:27,1,4,4,0,258,Brian Grant,MIA,Miami,1610612748,Heat,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,6-Nov,-5,,12:19 PM
+35,4,6,36,20001116,,,7:07,1,5,0,1,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Iverson OFF.Foul (P1),12:19 PM
+36,5,5,37,20001116,,,7:07,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Iverson Foul Turnover (P1.T1),12:19 PM
+37,3,2,38,20001116,MISS Mason 5' Hook Shot,,6:52,1,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:20 PM
+38,0,4,39,20001116,,,6:50,1,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:0 Def:2),12:20 PM
+39,42,2,40,20001116,,,6:32,1,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Hill  Driving Layup,12:20 PM
+40,0,4,41,20001116,Grant REBOUND (Off:0 Def:2),,6:30,1,4,0,0,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:20 PM
+41,1,1,42,20001116,Grant 17' Jump Shot (6 PTS) (Majerle 2 AST),,6:20,1,4,4,0,258,Brian Grant,MIA,Miami,1610612748,Heat,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,8-Nov,-3,,12:20 PM
+42,1,2,43,20001116,,,5:51,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Iverson 19' Jump Shot,12:21 PM
+43,0,4,45,20001116,,,5:49,1,5,0,0,1908,Jumaine Jones,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Jones REBOUND (Off:1 Def:0),12:21 PM
+44,4,1,44,20001116,,,5:49,1,5,0,0,1908,Jumaine Jones,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,13 - 8,-5,Jones  Tip Shot (2 PTS),12:21 PM
+45,1,1,46,20001116,Mason 16' Jump Shot (4 PTS) (Hardaway 2 AST),,5:38,1,4,4,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,13 - 10,-3,,12:21 PM
+46,1,2,47,20001116,,,5:13,1,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Snow 13' Jump Shot,12:21 PM
+47,0,4,48,20001116,Mason REBOUND (Off:0 Def:4),,5:11,1,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:22 PM
+48,1,2,49,20001116,MISS Mason 17' Jump Shot,,5:00,1,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:22 PM
+49,0,4,50,20001116,,,4:59,1,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:0 Def:3),12:22 PM
+50,1,9,51,20001116,,,4:54,1,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.1 Short 0),12:22 PM
+51,0,8,53,20001116,SUB: Mourning FOR Grant,,4:54,1,4,4,0,258,Brian Grant,MIA,Miami,1610612748,Heat,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,,,,12:22 PM
+52,1,1,54,20001116,,,4:44,1,5,5,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,1908,Jumaine Jones,PHI,Philadelphia,1610612755,76ers,0,,,,,,15 - 10,-5,Snow 19' Jump Shot (2 PTS) (Jones 1 AST),12:25 PM
+53,1,1,55,20001116,Hardaway 24' 3PT Jump Shot (3 PTS) (Majerle 3 AST),,4:28,1,4,4,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,15 - 13,-2,,12:25 PM
+54,3,2,56,20001116,,,4:02,1,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Mutombo 12' Hook Shot,12:26 PM
+55,0,4,57,20001116,,,4:00,1,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:3),12:26 PM
+56,1,2,58,20001116,,,3:48,1,5,0,0,1908,Jumaine Jones,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Jones 21' Jump Shot,12:26 PM
+57,0,4,59,20001116,Bowen REBOUND (Off:0 Def:1),,3:46,1,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:26 PM
+58,1,6,60,20001116,,,3:41,1,5,0,1,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo P.FOUL (P1.T2),12:26 PM
+59,2,5,61,20001116,Hardaway Lost Ball Turnover (P2.T2),,3:30,1,4,5,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,Snow STEAL (1 STL),12:27 PM
+60,2,5,62,20001116,,,3:19,1,5,0,0,1908,Jumaine Jones,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Jones Lost Ball Turnover (P1.T2),12:28 PM
+61,1,1,63,20001116,Hardaway 19' Jump Shot (5 PTS),,3:07,1,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,15 - 15,TIE,,12:28 PM
+62,1,5,64,20001116,,,2:47,1,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill Bad Pass Turnover (P1.T3),12:28 PM
+63,1,9,65,20001116,HEAT Timeout: Regular (Full 1 Short 1),,2:47,1,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,12:28 PM
+64,8,5,67,20001116,Mourning 3 Second Violation Turnover (P1.T3),,2:35,1,4,0,1,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:31 PM
+65,1,2,68,20001116,,,2:11,1,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Snow 15' Jump Shot,12:32 PM
+66,0,4,69,20001116,Majerle REBOUND (Off:0 Def:2),,2:09,1,4,0,0,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:32 PM
+67,7,1,70,20001116,Mourning  Dunk (2 PTS) (Majerle 4 AST),,2:04,1,4,4,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,15 - 17,2,,12:32 PM
+68,1,1,71,20001116,,,1:47,1,5,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,17 - 17,TIE,Iverson 18' Jump Shot (11 PTS) (Snow 2 AST),12:32 PM
+69,7,1,72,20001116,Mourning  Dunk (4 PTS) (Bowen 1 AST),,1:32,1,4,4,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,17 - 19,2,,12:32 PM
+70,1,2,73,20001116,Bowen BLOCK (1 BLK),,1:07,1,5,0,4,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,,,MISS Iverson 12' Jump Shot,12:33 PM
+71,0,4,74,20001116,Mourning REBOUND (Off:0 Def:1),,1:05,1,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:33 PM
+72,42,2,75,20001116,MISS Mourning  Driving Layup,,0:54,1,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:33 PM
+73,0,4,76,20001116,,,0:52,1,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:4),12:33 PM
+74,1,1,77,20001116,,,0:46,1,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,19 - 19,TIE,Snow 6' Jump Shot (4 PTS),12:33 PM
+75,8,5,78,20001116,Mourning 3 Second Violation Turnover (P2.T4),,0:34,1,4,0,1,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:33 PM
+76,0,8,79,20001116,,,0:34,1,5,5,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: McKie FOR Snow,12:34 PM
+77,0,8,80,20001116,,,0:34,1,5,5,0,1908,Jumaine Jones,PHI,Philadelphia,1610612755,76ers,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Buford FOR Jones,12:34 PM
+78,0,8,81,20001116,,,0:34,1,5,5,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Lynch FOR Hill,12:34 PM
+79,0,8,82,20001116,SUB: Carter FOR Hardaway,,0:34,1,4,4,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,,,,12:34 PM
+80,1,2,83,20001116,,,0:28,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Iverson 24' 3PT Jump Shot,12:34 PM
+81,0,4,84,20001116,Majerle REBOUND (Off:0 Def:3),,0:25,1,4,0,0,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:34 PM
+82,1,2,85,20001116,MISS Bowen 25' 3PT Jump Shot,,0:03,1,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:34 PM
+83,0,4,86,20001116,,,0:02,1,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,12:34 PM
+84,0,8,87,20001116,,,0:02,1,5,5,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Snow FOR Mutombo,12:35 PM
+85,1,2,88,20001116,,,0:00,1,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Snow 18' Jump Shot,12:35 PM
+86,0,4,89,20001116,,,0:00,1,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,12:35 PM
+87,0,13,90,20001116,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,19 - 19,TIE,,12:35 PM
+88,0,12,92,20001116,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,19 - 19,TIE,,12:38 PM
+89,1,1,93,20001116,Mourning 16' Jump Shot (6 PTS) (Bowen 2 AST),,11:43,2,4,4,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,19 - 21,2,,12:39 PM
+90,3,2,94,20001116,,,11:23,2,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Mutombo 8' Hook Shot,12:39 PM
+91,0,4,95,20001116,Mason REBOUND (Off:0 Def:5),,11:20,2,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:39 PM
+92,1,1,96,20001116,Mourning 17' Jump Shot (8 PTS),,11:12,2,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,19 - 23,4,,12:39 PM
+93,1,5,97,20001116,,,10:57,2,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Iverson Bad Pass Turnover (P2.T4),12:39 PM
+94,0,8,98,20001116,SUB: Jones FOR Majerle,,10:57,2,4,4,0,105,Dan Majerle,MIA,Miami,1610612748,Heat,224,Eddie Jones,MIA,Miami,1610612748,Heat,0,,,,,,,,,12:39 PM
+95,1,1,99,20001116,Bowen 24' 3PT Jump Shot (3 PTS) (Mourning 1 AST),,10:46,2,4,4,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,19 - 26,7,,12:40 PM
+96,42,2,100,20001116,Mourning BLOCK (1 BLK),,10:18,2,5,0,4,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,,,MISS McKie  Driving Layup,12:40 PM
+97,0,4,101,20001116,Mourning REBOUND (Off:0 Def:2),,10:17,2,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:40 PM
+98,1,2,102,20001116,MISS Mason 12' Jump Shot,,10:01,2,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:41 PM
+99,0,4,103,20001116,,,9:59,2,5,0,0,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Buford REBOUND (Off:0 Def:1),12:41 PM
+100,4,6,104,20001116,,,9:55,2,5,0,1,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Buford OFF.Foul (P1),12:41 PM
+101,5,5,105,20001116,,,9:55,2,5,0,0,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Buford Foul Turnover (P1.T5),12:41 PM
+102,8,1,106,20001116,Mourning  Slam Dunk (10 PTS),,9:42,2,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,19 - 28,9,,12:41 PM
+103,1,9,107,20001116,,,9:30,2,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.2 Short 0),12:41 PM
+104,0,8,109,20001116,SUB: Green FOR Mason,,9:30,2,4,4,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,920,A.C. Green,MIA,Miami,1610612748,Heat,0,,,,,,,,,12:44 PM
+105,1,2,110,20001116,,,9:21,2,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Iverson 25' 3PT Jump Shot,12:44 PM
+106,0,4,111,20001116,Mourning REBOUND (Off:0 Def:3),,9:19,2,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:45 PM
+107,1,2,112,20001116,MISS Jones 18' Jump Shot,,8:59,2,4,0,0,224,Eddie Jones,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:45 PM
+108,0,4,113,20001116,,,8:57,2,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Lynch REBOUND (Off:0 Def:1),12:45 PM
+109,2,5,114,20001116,Jones STEAL (1 STL),,8:37,2,5,4,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,224,Eddie Jones,MIA,Miami,1610612748,Heat,0,,,,,,,,McKie Lost Ball Turnover (P1.T6),12:45 PM
+110,5,2,115,20001116,MISS Bowen  Layup,,8:32,2,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:45 PM
+111,0,4,116,20001116,,,8:30,2,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Lynch REBOUND (Off:0 Def:2),12:45 PM
+112,1,2,117,20001116,,,8:26,2,5,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS McKie 12' Jump Shot,12:45 PM
+113,0,4,118,20001116,Carter REBOUND (Off:0 Def:1),,8:24,2,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:45 PM
+114,1,2,119,20001116,MISS Mourning 20' Jump Shot,,8:07,2,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:46 PM
+115,0,4,120,20001116,,,8:06,2,5,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,McKie REBOUND (Off:0 Def:1),12:46 PM
+116,2,5,121,20001116,Carter STEAL (1 STL),,8:04,2,5,4,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,,,McKie Lost Ball Turnover (P2.T7),12:46 PM
+117,5,2,122,20001116,MISS Jones  Layup,,7:49,2,4,0,0,224,Eddie Jones,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:46 PM
+118,0,4,123,20001116,Mourning REBOUND (Off:1 Def:3),,7:48,2,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:46 PM
+119,46,1,124,20001116,Carter 10' Running Jump Shot (2 PTS),,7:39,2,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,19 - 30,11,,12:46 PM
+120,42,2,125,20001116,,,7:18,2,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Lynch  Driving Layup,12:47 PM
+121,0,4,126,20001116,,,7:15,2,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Iverson REBOUND (Off:1 Def:0),12:47 PM
+122,0,8,127,20001116,,,7:10,2,5,5,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,1928,Todd MacCulloch,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: MacCulloch FOR Mutombo,12:47 PM
+123,0,8,128,20001116,,,7:10,2,5,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Snow FOR Iverson,12:47 PM
+124,0,8,129,20001116,SUB: Grant FOR Mourning,,7:10,2,4,4,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,,,,12:47 PM
+125,1,6,130,20001116,Grant P.FOUL (P1.T1),,7:05,2,4,0,1,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:47 PM
+126,1,1,131,20001116,,,6:54,2,5,5,0,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,22 - 30,8,Buford 24' 3PT Jump Shot (3 PTS) (Snow 3 AST),12:48 PM
+127,1,1,132,20001116,Bowen 25' 3PT Jump Shot (6 PTS) (Carter 1 AST),,6:44,2,4,4,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,22 - 33,11,,12:48 PM
+128,1,1,133,20001116,,,6:27,2,5,0,0,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,24 - 33,9,Buford 17' Jump Shot (5 PTS),12:48 PM
+129,2,5,134,20001116,Carter Lost Ball Turnover (P1.T5),,6:14,2,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:49 PM
+130,0,8,135,20001116,SUB: Hardaway FOR Bowen,,6:14,2,4,4,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,,,,12:49 PM
+131,2,5,136,20001116,Carter STEAL (2 STL),,5:58,2,5,4,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,,,McKie Lost Ball Turnover (P3.T8),12:49 PM
+132,7,1,137,20001116,Grant  Dunk (8 PTS) (Carter 2 AST),,5:54,2,4,4,0,258,Brian Grant,MIA,Miami,1610612748,Heat,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,24 - 35,11,,12:49 PM
+133,1,1,138,20001116,,,5:34,2,5,0,0,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,26 - 35,9,Buford 21' Jump Shot (7 PTS),12:49 PM
+134,1,2,139,20001116,MISS Hardaway 24' 3PT Jump Shot,,5:19,2,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:50 PM
+135,0,4,140,20001116,Green REBOUND (Off:1 Def:0),,5:17,2,4,0,0,920,A.C. Green,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:50 PM
+136,1,2,141,20001116,MISS Carter 20' Jump Shot,,5:11,2,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:50 PM
+137,0,4,142,20001116,Grant REBOUND (Off:1 Def:2),,5:09,2,4,0,0,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:50 PM
+138,1,2,143,20001116,MISS Grant 4' Jump Shot,,5:07,2,4,0,0,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:50 PM
+139,0,4,144,20001116,,,5:05,2,5,0,0,1928,Todd MacCulloch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MacCulloch REBOUND (Off:0 Def:1),12:50 PM
+140,2,5,145,20001116,Hardaway STEAL (1 STL),,4:59,2,5,4,0,1928,Todd MacCulloch,PHI,Philadelphia,1610612755,76ers,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,,,MacCulloch Lost Ball Turnover (P1.T9),12:50 PM
+141,1,6,146,20001116,,,4:58,2,5,0,1,1928,Todd MacCulloch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MacCulloch P.FOUL (P1.T1),12:50 PM
+142,4,9,147,20001116,,,4:58,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:50 PM
+143,0,8,149,20001116,SUB: Mason FOR Jones,,4:58,2,4,4,0,224,Eddie Jones,MIA,Miami,1610612748,Heat,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,,,,12:53 PM
+144,1,2,150,20001116,MISS Carter 22' Jump Shot,,4:35,2,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:53 PM
+145,0,4,151,20001116,,,4:33,2,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Lynch REBOUND (Off:0 Def:3),12:53 PM
+146,2,6,152,20001116,Green S.FOUL (P1.T2),,4:29,2,4,0,1,920,A.C. Green,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:54 PM
+147,11,3,153,20001116,,,4:29,2,5,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS McKie Free Throw 1 of 2,12:54 PM
+148,1,4,154,20001116,,,4:29,2,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,12:54 PM
+149,12,3,155,20001116,,,4:29,2,5,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,27 - 35,8,McKie Free Throw 2 of 2 (1 PTS),12:54 PM
+150,1,2,156,20001116,MISS Mason 14' Jump Shot,,4:13,2,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:55 PM
+151,0,4,157,20001116,,,4:11,2,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Lynch REBOUND (Off:0 Def:4),12:55 PM
+152,3,2,158,20001116,,,3:58,2,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Lynch 6' Hook Shot,12:55 PM
+153,0,4,159,20001116,HEAT Rebound,,3:57,2,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,12:55 PM
+154,0,8,160,20001116,,,3:57,2,5,5,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Iverson FOR McKie,12:55 PM
+155,0,8,161,20001116,,,3:57,2,5,5,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Hill FOR Lynch,12:55 PM
+156,42,2,169,20001116,MISS Grant  Driving Layup,,3:43,2,4,0,0,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:55 PM
+157,0,4,170,20001116,,,3:42,2,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Snow REBOUND (Off:0 Def:2),12:55 PM
+158,1,2,163,20001116,,,3:26,2,5,0,0,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Buford 21' Jump Shot,12:56 PM
+159,0,4,164,20001116,Green REBOUND (Off:1 Def:1),,3:24,2,4,0,0,920,A.C. Green,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:56 PM
+160,44,2,165,20001116,MISS Carter  Reverse Layup,,3:18,2,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:56 PM
+161,0,4,166,20001116,,,3:16,2,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:5),12:56 PM
+162,1,1,167,20001116,,,3:10,2,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,29 - 35,6,Iverson 16' Jump Shot (13 PTS),12:56 PM
+163,1,9,168,20001116,HEAT Timeout: Regular (Full 2 Short 1),,3:04,2,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,12:56 PM
+164,0,8,171,20001116,,,3:04,2,5,5,0,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Mutombo FOR Buford,12:58 PM
+165,0,8,172,20001116,,,3:04,2,5,5,0,1928,Todd MacCulloch,PHI,Philadelphia,1610612755,76ers,1908,Jumaine Jones,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Jones FOR MacCulloch,12:58 PM
+166,0,8,173,20001116,SUB: Mourning FOR Carter,,3:04,2,4,4,0,1853,Anthony Carter,MIA,Miami,1610612748,Heat,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,,,,12:59 PM
+167,0,8,174,20001116,SUB: Bowen FOR Green,,3:04,2,4,4,0,920,A.C. Green,MIA,Miami,1610612748,Heat,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,,,,12:59 PM
+168,1,2,175,20001116,MISS Grant 14' Jump Shot,,2:54,2,4,0,0,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:59 PM
+169,0,4,176,20001116,,,2:52,2,5,0,0,1908,Jumaine Jones,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Jones REBOUND (Off:1 Def:1),12:59 PM
+170,1,2,177,20001116,,,2:39,2,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Snow 15' Jump Shot,12:59 PM
+171,0,4,178,20001116,Mason REBOUND (Off:0 Def:6),,2:37,2,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:59 PM
+172,3,2,179,20001116,MISS Mourning 6' Hook Shot,,2:29,2,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,12:59 PM
+173,0,4,180,20001116,,,2:27,2,5,0,0,1908,Jumaine Jones,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Jones REBOUND (Off:1 Def:2),12:59 PM
+174,1,6,181,20001116,Mason P.FOUL (P1.T3),,2:16,2,4,0,1,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:00 PM
+175,0,8,182,20001116,SUB: Majerle FOR Grant,,2:16,2,4,4,0,258,Brian Grant,MIA,Miami,1610612748,Heat,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,,,,1:00 PM
+176,5,1,183,20001116,,,2:10,2,5,5,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,31 - 35,4,Hill  Layup (2 PTS) (Snow 4 AST),1:00 PM
+177,2,6,184,20001116,Mourning S.FOUL (P1.T4),,2:10,2,4,0,1,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:00 PM
+178,10,3,185,20001116,,,2:10,2,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,32 - 35,3,Hill Free Throw 1 of 1 (3 PTS),1:00 PM
+179,1,1,186,20001116,Majerle 24' 3PT Jump Shot (3 PTS) (Mourning 2 AST),,1:52,2,4,4,0,105,Dan Majerle,MIA,Miami,1610612748,Heat,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,32 - 38,6,,1:01 PM
+180,1,2,187,20001116,,,1:25,2,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Iverson 20' Jump Shot,1:01 PM
+181,0,4,188,20001116,Mourning REBOUND (Off:1 Def:4),,1:23,2,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:02 PM
+182,5,1,189,20001116,Bowen  Layup (8 PTS) (Mourning 3 AST),,1:13,2,4,4,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,32 - 40,8,,1:02 PM
+183,4,6,190,20001116,,,0:56,2,5,0,1,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill OFF.Foul (P2),1:02 PM
+184,5,5,191,20001116,,,0:56,2,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill Foul Turnover (P2.T10),1:02 PM
+185,1,7,192,20001116,,,0:56,2,3,0,1,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Violation: Delay of game Violation,1:02 PM
+186,0,8,193,20001116,,,0:56,2,5,5,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Lynch FOR Hill,1:03 PM
+187,44,2,194,20001116,MISS Mason  Reverse Layup,,0:32,2,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:03 PM
+188,0,4,195,20001116,,,0:30,2,5,0,0,1908,Jumaine Jones,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Jones REBOUND (Off:1 Def:3),1:03 PM
+189,1,2,196,20001116,,,0:10,2,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Snow 24' 3PT Jump Shot,1:03 PM
+190,0,4,197,20001116,Mason REBOUND (Off:0 Def:7),,0:07,2,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:03 PM
+191,5,1,198,20001116,Bowen  Layup (10 PTS) (Majerle 5 AST),,0:02,2,4,4,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,32 - 42,10,,1:03 PM
+192,2,6,199,20001116,,,0:02,2,5,0,1,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Snow S.FOUL (P1.T2),1:03 PM
+193,10,3,200,20001116,MISS Bowen Free Throw 1 of 1,,0:02,2,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:04 PM
+194,0,4,201,20001116,Mourning REBOUND (Off:2 Def:4),,0:00,2,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:04 PM
+195,0,13,202,20001116,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,32 - 42,10,,1:04 PM
+196,0,12,204,20001116,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,32 - 42,10,,1:25 PM
+197,2,5,205,20001116,Mason Lost Ball Turnover (P1.T6),,11:41,3,4,5,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,Iverson STEAL (1 STL),1:25 PM
+198,44,1,206,20001116,,,11:36,3,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,34 - 42,8,Snow  Reverse Layup (6 PTS),1:25 PM
+199,1,2,207,20001116,MISS Mason 14' Jump Shot,,11:13,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:26 PM
+200,0,4,208,20001116,,,11:11,3,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Lynch REBOUND (Off:0 Def:5),1:26 PM
+201,2,9,209,20001116,,,11:11,3,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Short (Reg.2 Short 1),1:26 PM
+202,0,8,210,20001116,,,11:11,3,5,5,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: McKie FOR Snow,1:27 PM
+203,2,6,211,20001116,Bowen S.FOUL (P1.T1),,10:54,3,4,0,1,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:27 PM
+204,11,3,212,20001116,,,10:54,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,35 - 42,7,Iverson Free Throw 1 of 2 (14 PTS),1:28 PM
+205,12,3,213,20001116,,,10:54,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,36 - 42,6,Iverson Free Throw 2 of 2 (15 PTS),1:28 PM
+206,1,1,214,20001116,Bowen 24' 3PT Jump Shot (13 PTS) (Mason 1 AST),,10:35,3,4,4,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,36 - 45,9,,1:28 PM
+207,1,6,215,20001116,Grant P.FOUL (P2.T2),,10:19,3,4,0,1,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:29 PM
+208,1,2,216,20001116,,,10:09,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Iverson 21' Jump Shot,1:29 PM
+209,0,4,217,20001116,Mason REBOUND (Off:0 Def:8),,10:07,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:29 PM
+210,1,2,218,20001116,MISS Hardaway 24' 3PT Jump Shot,,10:02,3,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:29 PM
+211,0,4,219,20001116,,,10:00,3,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:0 Def:4),1:29 PM
+212,1,2,220,20001116,,,9:51,3,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Lynch 19' Jump Shot,1:30 PM
+213,0,4,221,20001116,Grant REBOUND (Off:1 Def:3),,9:50,3,4,0,0,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:30 PM
+214,1,1,222,20001116,Hardaway 20' Jump Shot (7 PTS),,9:33,3,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,36 - 47,11,,1:30 PM
+215,1,1,223,20001116,,,9:15,3,5,5,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,38 - 47,9,Hill 14' Jump Shot (5 PTS) (Iverson 1 AST),1:30 PM
+216,1,2,224,20001116,MISS Hardaway 20' Jump Shot,,8:57,3,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:30 PM
+217,0,4,225,20001116,,,8:55,3,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:6),1:30 PM
+218,56,1,226,20001116,,,8:50,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,40 - 47,7,Iverson 7' Running Hook Shot (17 PTS),1:31 PM
+219,2,5,227,20001116,Hardaway Lost Ball Turnover (P3.T7),,8:33,3,4,5,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,McKie STEAL (1 STL),1:31 PM
+220,44,1,228,20001116,,,8:28,3,5,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,42 - 47,5,Iverson  Reverse Layup (19 PTS) (McKie 1 AST),1:31 PM
+221,1,1,229,20001116,Mason 12' Jump Shot (6 PTS),,8:08,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,42 - 49,7,,1:31 PM
+222,1,5,230,20001116,Mason STEAL (1 STL),,7:52,3,5,4,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,,,McKie Bad Pass Turnover (P4.T11),1:31 PM
+223,1,2,231,20001116,MISS Bowen 25' 3PT Jump Shot,,7:44,3,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:32 PM
+224,0,4,232,20001116,,,7:42,3,5,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,McKie REBOUND (Off:0 Def:2),1:32 PM
+225,5,2,233,20001116,Majerle BLOCK (1 BLK),,7:34,3,5,0,4,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,105,Dan Majerle,MIA,Miami,1610612748,Heat,,,MISS Hill  Layup,1:32 PM
+226,0,8,234,20001116,,,7:32,3,5,5,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Buford FOR Lynch,1:32 PM
+227,0,10,236,20001116,Jump Ball Bowen vs. Hill: Tip to,,7:32,3,4,5,3,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,1610612755,,,,,,,,,1:32 PM
+228,0,4,237,20001116,,,7:32,3,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,1:32 PM
+229,4,7,238,20001116,Majerle Violation:Jump Ball,,7:31,3,4,0,1,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:33 PM
+230,1,1,239,20001116,,,7:19,3,5,5,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,44 - 49,5,Hill 7' Jump Shot (7 PTS) (McKie 2 AST),1:34 PM
+231,1,1,240,20001116,Majerle 9' Jump Shot (5 PTS),,6:59,3,4,0,0,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,44 - 51,7,,1:34 PM
+232,42,2,241,20001116,,,6:38,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Iverson  Driving Layup,1:34 PM
+233,0,4,242,20001116,HEAT Rebound,,6:38,3,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,1:34 PM
+234,3,6,243,20001116,,,6:38,3,5,0,1,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo L.B.FOUL (P2.T1),1:34 PM
+235,1,6,244,20001116,,,6:30,3,5,0,1,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,McKie P.FOUL (P1.T2),1:35 PM
+236,1,9,246,20001116,HEAT Timeout: Regular (Full 3 Short 1),,6:30,3,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,1:35 PM
+237,1,2,247,20001116,MISS Hardaway 22' Jump Shot,,6:16,3,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:38 PM
+238,0,4,248,20001116,,,6:14,3,5,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,McKie REBOUND (Off:0 Def:3),1:38 PM
+239,1,6,249,20001116,Bowen P.FOUL (P2.T3),,5:55,3,4,0,1,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:38 PM
+240,42,2,250,20001116,,,5:44,3,5,0,0,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Buford  Driving Layup,1:39 PM
+241,0,4,251,20001116,,,5:40,3,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:1 Def:4),1:39 PM
+242,8,1,252,20001116,,,5:39,3,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,46 - 51,5,Mutombo  Slam Dunk (2 PTS),1:39 PM
+243,1,6,253,20001116,,,5:29,3,5,0,1,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill P.FOUL (P3.T3),1:39 PM
+244,0,8,254,20001116,,,5:29,3,5,5,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Snow FOR McKie,1:39 PM
+245,2,7,255,20001116,,,5:21,3,3,0,1,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Violation: Def. Goaltending Violation,1:40 PM
+246,1,1,256,20001116,Grant 19' Jump Shot (10 PTS) (Mason 2 AST),,5:09,3,4,4,0,258,Brian Grant,MIA,Miami,1610612748,Heat,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,46 - 53,7,,1:40 PM
+247,1,6,257,20001116,Grant P.FOUL (P3.T4),,4:52,3,4,0,1,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:40 PM
+248,1,6,258,20001116,Bowen P.FOUL (P3.PN),,4:45,3,4,0,1,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:41 PM
+249,11,3,259,20001116,,,4:45,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Iverson Free Throw 1 of 2,1:41 PM
+250,1,4,260,20001116,,,4:45,3,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,1:41 PM
+251,12,3,261,20001116,,,4:45,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,47 - 53,6,Iverson Free Throw 2 of 2 (20 PTS),1:41 PM
+252,2,5,262,20001116,Mason Lost Ball Turnover (P2.T8),,4:27,3,4,5,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,Snow STEAL (2 STL),1:42 PM
+253,1,2,263,20001116,,,4:12,3,5,0,0,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Buford 25' 3PT Jump Shot,1:42 PM
+254,0,4,264,20001116,,,4:10,3,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:2 Def:4),1:42 PM
+255,1,2,265,20001116,,,4:04,3,5,0,0,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Buford 15' Jump Shot,1:42 PM
+256,0,4,266,20001116,Majerle REBOUND (Off:0 Def:4),,4:01,3,4,0,0,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:42 PM
+257,1,6,267,20001116,,,3:57,3,5,0,1,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Snow P.FOUL (P2.T4),1:43 PM
+258,0,8,268,20001116,,,3:57,3,5,5,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Lynch FOR Hill,1:43 PM
+259,0,8,269,20001116,SUB: Mourning FOR Grant,,3:57,3,4,4,0,258,Brian Grant,MIA,Miami,1610612748,Heat,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,,,,1:43 PM
+260,3,2,270,20001116,MISS Mason 6' Hook Shot,,3:43,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:43 PM
+261,0,4,271,20001116,,,3:42,3,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:2 Def:5),1:43 PM
+262,3,6,272,20001116,Mourning L.B.FOUL (P2.PN),,3:42,3,4,0,1,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:43 PM
+263,11,3,273,20001116,,,3:42,3,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,48 - 53,5,Mutombo Free Throw 1 of 2 (3 PTS),1:44 PM
+264,12,3,274,20001116,,,3:42,3,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Mutombo Free Throw 2 of 2,1:44 PM
+265,0,4,275,20001116,Mourning REBOUND (Off:2 Def:5),,3:41,3,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:44 PM
+266,1,2,276,20001116,MISS Mourning 14' Jump Shot,,3:24,3,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:45 PM
+267,0,4,277,20001116,,,3:22,3,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:2 Def:6),1:45 PM
+268,1,2,278,20001116,,,3:16,3,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Lynch 8' Jump Shot,1:45 PM
+269,0,4,279,20001116,Mourning REBOUND (Off:2 Def:6),,3:14,3,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:45 PM
+270,1,2,280,20001116,MISS Majerle 20' Jump Shot,,2:52,3,4,0,0,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:45 PM
+271,0,4,281,20001116,,,2:50,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Iverson REBOUND (Off:1 Def:1),1:45 PM
+272,44,2,282,20001116,,,2:44,3,5,0,0,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Buford  Reverse Layup,1:45 PM
+273,0,4,283,20001116,Mourning REBOUND (Off:2 Def:7),,2:42,3,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:45 PM
+274,42,2,284,20001116,MISS Mason  Driving Layup,,2:24,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:46 PM
+275,0,4,285,20001116,,,2:22,3,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:2 Def:7),1:46 PM
+276,3,6,286,20001116,Mason L.B.FOUL (P2.PN),,2:22,3,4,0,1,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:46 PM
+277,1,9,287,20001116,,,2:22,3,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.3 Short 1),1:46 PM
+278,0,8,289,20001116,SUB: Carter FOR Hardaway,,2:22,3,4,4,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,,,,1:49 PM
+279,11,3,290,20001116,,,2:22,3,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,49 - 53,4,Lynch Free Throw 1 of 2 (3 PTS),1:49 PM
+280,12,3,291,20001116,,,2:22,3,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,50 - 53,3,Lynch Free Throw 2 of 2 (4 PTS),1:49 PM
+281,1,6,292,20001116,,,2:08,3,5,0,1,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Snow P.FOUL (P3.PN),1:50 PM
+282,11,3,293,20001116,MISS Mourning Free Throw 1 of 2,,2:08,3,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:50 PM
+283,1,4,294,20001116,HEAT Rebound,,2:08,3,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,1:50 PM
+284,12,3,295,20001116,Mourning Free Throw 2 of 2 (11 PTS),,2:08,3,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,50 - 54,4,,1:50 PM
+285,1,5,296,20001116,Bowen STEAL (1 STL),,1:58,3,5,4,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,,,Snow Bad Pass Turnover (P1.T12),1:51 PM
+286,1,2,297,20001116,MISS Carter 16' Jump Shot,,1:50,3,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:51 PM
+287,0,4,298,20001116,Mourning REBOUND (Off:3 Def:7),,1:48,3,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:51 PM
+288,1,2,299,20001116,MISS Mason 16' Jump Shot,,1:38,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:51 PM
+289,0,4,300,20001116,,,1:36,3,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:2 Def:8),1:51 PM
+290,1,6,301,20001116,Bowen P.FOUL (P4.PN),,1:27,3,4,0,1,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:52 PM
+291,11,3,302,20001116,,,1:27,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,51 - 54,3,Iverson Free Throw 1 of 2 (21 PTS),1:52 PM
+292,0,8,303,20001116,,,1:27,3,5,5,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Hill FOR Mutombo,1:52 PM
+293,0,8,304,20001116,SUB: Hardaway FOR Bowen,,1:27,3,4,4,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,,,,1:52 PM
+294,12,3,305,20001116,,,1:27,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,52 - 54,2,Iverson Free Throw 2 of 2 (22 PTS),1:52 PM
+295,1,2,306,20001116,MISS Carter 15' Jump Shot,,1:15,3,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:53 PM
+296,0,4,307,20001116,HEAT Rebound,,1:14,3,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,1:53 PM
+297,3,6,308,20001116,,,1:14,3,5,0,1,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Lynch L.B.FOUL (P1.PN),1:53 PM
+298,11,3,309,20001116,MISS Mason Free Throw 1 of 2,,1:14,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:53 PM
+299,1,4,310,20001116,HEAT Rebound,,1:14,3,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,1:53 PM
+300,12,3,311,20001116,Mason Free Throw 2 of 2 (7 PTS),,1:14,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,52 - 55,3,,1:53 PM
+301,1,1,312,20001116,,,1:03,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,54 - 55,1,Iverson 15' Jump Shot (24 PTS),1:54 PM
+302,1,2,313,20001116,MISS Hardaway 24' 3PT Jump Shot,,0:53,3,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:54 PM
+303,0,4,314,20001116,Mason REBOUND (Off:1 Def:8),,0:51,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:54 PM
+304,1,5,315,20001116,Mason Bad Pass Turnover (P3.T9),,0:47,3,4,5,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,Hill STEAL (1 STL),1:54 PM
+305,1,2,316,20001116,,,0:36,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Iverson 12' Jump Shot,1:54 PM
+306,0,4,317,20001116,,,0:34,3,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Lynch REBOUND (Off:1 Def:5),1:54 PM
+307,1,2,318,20001116,,,0:15,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Iverson 14' Jump Shot,1:54 PM
+308,0,4,319,20001116,Mourning REBOUND (Off:3 Def:8),,0:12,3,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:55 PM
+309,2,5,320,20001116,Carter Lost Ball Turnover (P2.T10),,0:10,3,4,5,0,1853,Anthony Carter,MIA,Miami,1610612748,Heat,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,Buford STEAL (1 STL),1:55 PM
+310,1,2,321,20001116,,,0:02,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Iverson 17' Jump Shot,1:55 PM
+311,0,4,322,20001116,Mason REBOUND (Off:1 Def:9),,0:00,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:55 PM
+312,0,13,323,20001116,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,54 - 55,1,,1:55 PM
+313,0,12,325,20001116,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,54 - 55,1,,1:58 PM
+314,1,1,326,20001116,,,11:38,4,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,56 - 55,-1,Snow 17' Jump Shot (8 PTS),1:59 PM
+315,4,5,327,20001116,Mason Traveling Turnover (P4.T11),,11:30,4,4,0,1,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:59 PM
+316,2,6,328,20001116,Carter S.FOUL (P1.T1),,11:13,4,4,0,1,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,1:59 PM
+317,11,3,329,20001116,,,11:13,4,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,57 - 55,-2,Iverson Free Throw 1 of 2 (25 PTS),2:00 PM
+318,12,3,330,20001116,,,11:13,4,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,58 - 55,-3,Iverson Free Throw 2 of 2 (26 PTS),2:00 PM
+319,42,1,331,20001116,Mason  Driving Layup (9 PTS),,10:54,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,58 - 57,-1,,2:00 PM
+320,1,2,332,20001116,,,10:27,4,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Snow 16' Jump Shot,2:01 PM
+321,0,4,333,20001116,Mourning REBOUND (Off:3 Def:9),,10:25,4,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:01 PM
+322,5,2,334,20001116,MISS Mason  Layup,,10:19,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:01 PM
+323,0,4,335,20001116,Mason REBOUND (Off:2 Def:9),,10:18,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:01 PM
+324,5,2,336,20001116,MISS Mason  Layup,,10:17,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:01 PM
+325,0,4,337,20001116,Mason REBOUND (Off:3 Def:9),,10:15,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:01 PM
+326,2,6,338,20001116,,,10:15,4,5,0,1,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill S.FOUL (P4.T1),2:01 PM
+327,0,8,339,20001116,,,10:15,4,5,5,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Mutombo FOR Lynch,2:01 PM
+328,11,3,340,20001116,MISS Mason Free Throw 1 of 2,,10:15,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:02 PM
+329,1,4,341,20001116,HEAT Rebound,,10:15,4,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,2:02 PM
+330,0,8,342,20001116,SUB: Jones FOR Majerle,,10:15,4,4,4,0,105,Dan Majerle,MIA,Miami,1610612748,Heat,224,Eddie Jones,MIA,Miami,1610612748,Heat,0,,,,,,,,,2:02 PM
+331,12,3,343,20001116,Mason Free Throw 2 of 2 (10 PTS),,10:15,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,58 - 58,TIE,,2:02 PM
+332,1,1,344,20001116,,,10:04,4,5,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,61 - 58,-3,Iverson 24' 3PT Jump Shot (29 PTS) (Snow 5 AST),2:02 PM
+333,44,1,345,20001116,Mourning  Reverse Layup (13 PTS) (Hardaway 3 AST),,9:50,4,4,4,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,61 - 60,-1,,2:03 PM
+334,2,6,346,20001116,,,9:50,4,5,0,1,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo S.FOUL (P3.T2),2:03 PM
+335,0,8,347,20001116,SUB: Grant FOR Mason,,9:50,4,4,4,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,,,,2:03 PM
+336,0,8,349,20001116,,,9:50,4,5,5,0,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: McKie FOR Buford,2:03 PM
+337,10,3,350,20001116,Mourning Free Throw 1 of 1 (14 PTS),,9:50,4,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,61 - 61,TIE,,2:03 PM
+338,1,2,351,20001116,,,9:36,4,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Iverson 15' Jump Shot,2:03 PM
+339,0,4,352,20001116,,,9:33,4,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:2 Def:6),2:03 PM
+340,3,1,353,20001116,,,9:32,4,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,63 - 61,-2,Hill 2' Hook Shot (9 PTS),2:03 PM
+341,42,2,354,20001116,MISS Carter  Driving Layup,,9:15,4,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:04 PM
+342,0,4,355,20001116,,,9:13,4,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:2 Def:9),2:04 PM
+343,3,6,356,20001116,Hardaway L.B.FOUL (P2.T2),,9:08,4,4,0,1,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:04 PM
+344,11,6,357,20001116,Hardaway T.FOUL (P2.T2),,9:08,4,4,0,1,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:04 PM
+345,16,3,358,20001116,,,9:08,4,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,64 - 61,-3,Iverson Free Throw Technical (30 PTS),2:04 PM
+346,0,8,359,20001116,,,9:08,4,5,5,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,1563,Kevin Ollie,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Ollie FOR Snow,2:05 PM
+347,1,5,360,20001116,Carter STEAL (3 STL),,9:01,4,5,4,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755,76ers,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,,,Ollie Bad Pass Turnover (P1.T13),2:05 PM
+348,41,1,361,20001116,Carter  Running Layup (4 PTS),,8:56,4,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,64 - 63,-1,,2:05 PM
+349,1,6,362,20001116,Carter P.FOUL (P2.T3),,8:45,4,4,0,1,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:05 PM
+350,4,9,363,20001116,,,8:45,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,2:05 PM
+351,1,2,365,20001116,,,8:34,4,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Ollie 22' Jump Shot,2:08 PM
+352,0,4,366,20001116,Jones REBOUND (Off:0 Def:1),,8:32,4,4,0,0,224,Eddie Jones,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:08 PM
+353,1,2,367,20001116,MISS Jones 24' 3PT Jump Shot,,8:14,4,4,0,0,224,Eddie Jones,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:09 PM
+354,0,4,368,20001116,,,8:12,4,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,2:09 PM
+355,1,1,369,20001116,,,7:58,4,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,67 - 63,-4,Iverson 25' 3PT Jump Shot (33 PTS),2:09 PM
+356,2,6,370,20001116,Carter S.FOUL (P3.T4),,7:58,4,4,0,1,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:09 PM
+357,10,3,371,20001116,,,7:58,4,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,68 - 63,-5,Iverson Free Throw 1 of 1 (34 PTS),2:10 PM
+358,49,1,372,20001116,Mourning  Driving Dunk (16 PTS),,7:40,4,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,68 - 65,-3,,2:10 PM
+359,1,1,373,20001116,,,7:13,4,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,71 - 65,-6,Iverson 25' 3PT Jump Shot (37 PTS),2:10 PM
+360,2,6,374,20001116,,,6:57,4,5,0,1,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Iverson S.FOUL (P2.T3),2:11 PM
+361,0,8,375,20001116,SUB: Bowen FOR Jones,,6:57,4,4,4,0,224,Eddie Jones,MIA,Miami,1610612748,Heat,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,,,,2:11 PM
+362,11,3,376,20001116,Hardaway Free Throw 1 of 2 (8 PTS),,6:57,4,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,71 - 66,-5,,2:11 PM
+363,0,8,377,20001116,SUB: Mason FOR Mourning,,6:57,4,4,4,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,,,,2:11 PM
+364,0,8,378,20001116,,,6:57,4,5,5,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755,76ers,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Snow FOR Ollie,2:11 PM
+365,12,3,379,20001116,Hardaway Free Throw 2 of 2 (9 PTS),,6:57,4,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,71 - 67,-4,,2:12 PM
+366,1,2,381,20001116,,,6:40,4,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Iverson 22' Jump Shot,2:12 PM
+367,0,4,382,20001116,Grant REBOUND (Off:1 Def:4),,6:38,4,4,0,0,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:12 PM
+368,1,1,383,20001116,Mason 16' Jump Shot (12 PTS) (Hardaway 4 AST),,6:21,4,4,4,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,71 - 69,-2,,2:12 PM
+369,42,2,384,20001116,,,5:56,4,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Iverson  Driving Layup,2:13 PM
+370,0,4,385,20001116,,,5:53,4,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:3 Def:6),2:13 PM
+371,1,9,386,20001116,HEAT Timeout: Regular (Full 4 Short 1),,5:53,4,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,2:13 PM
+372,0,10,388,20001116,Jump Ball Carter vs. Hill: Tip to Snow,,5:53,4,4,5,5,1853,Anthony Carter,MIA,Miami,1610612748,Heat,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,,,,2:16 PM
+373,1,2,389,20001116,,,5:39,4,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Snow 19' Jump Shot,2:16 PM
+374,0,4,390,20001116,,,5:37,4,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:4 Def:6),2:16 PM
+375,1,1,391,20001116,,,5:26,4,5,5,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,73 - 69,-4,McKie 18' Jump Shot (3 PTS) (Snow 6 AST),2:17 PM
+376,1,1,392,20001116,Grant 20' Jump Shot (12 PTS) (Hardaway 5 AST),,5:12,4,4,4,0,258,Brian Grant,MIA,Miami,1610612748,Heat,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,73 - 71,-2,,2:17 PM
+377,1,1,393,20001116,,,4:53,4,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,75 - 71,-4,Iverson 12' Jump Shot (39 PTS),2:17 PM
+378,2,6,394,20001116,,,4:30,4,5,0,1,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo S.FOUL (P4.T4),2:18 PM
+379,11,3,395,20001116,Grant Free Throw 1 of 2 (13 PTS),,4:30,4,4,0,0,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,75 - 72,-3,,2:18 PM
+380,0,8,396,20001116,SUB: Mourning FOR Hardaway,,4:30,4,4,4,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,,,,2:18 PM
+381,12,3,397,20001116,Grant Free Throw 2 of 2 (14 PTS),,4:30,4,4,0,0,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,75 - 73,-2,,2:18 PM
+382,1,2,398,20001116,,,4:15,4,5,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS McKie 12' Jump Shot,2:19 PM
+383,0,4,399,20001116,Mourning REBOUND (Off:3 Def:10),,4:12,4,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:19 PM
+384,1,2,400,20001116,MISS Mourning 20' Jump Shot,,3:55,4,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:19 PM
+385,0,4,401,20001116,,,3:53,4,5,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,McKie REBOUND (Off:0 Def:4),2:19 PM
+386,5,2,402,20001116,,,3:49,4,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Snow  Layup,2:19 PM
+387,0,4,403,20001116,Mason REBOUND (Off:3 Def:10),,3:47,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:19 PM
+388,3,1,404,20001116,Mason 5' Hook Shot (14 PTS) (Carter 3 AST),,3:31,4,4,4,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,75 - 75,TIE,,2:20 PM
+389,1,9,405,20001116,,,3:28,4,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.4 Short 1),2:20 PM
+390,3,2,407,20001116,,,3:06,4,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Mutombo 12' Hook Shot,2:23 PM
+391,0,4,408,20001116,Mourning REBOUND (Off:3 Def:11),,3:04,4,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:23 PM
+392,3,2,409,20001116,MISS Mourning 10' Hook Shot,,2:45,4,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:23 PM
+393,0,4,410,20001116,,,2:43,4,5,0,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:4 Def:7),2:23 PM
+394,42,1,411,20001116,,,2:40,4,5,5,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,77 - 75,-2,McKie  Driving Layup (5 PTS) (Snow 7 AST),2:23 PM
+395,2,6,412,20001116,Grant S.FOUL (P4.PN),,2:40,4,4,0,1,258,Brian Grant,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:23 PM
+396,0,8,414,20001116,SUB: Hardaway FOR Grant,,2:40,4,4,4,0,258,Brian Grant,MIA,Miami,1610612748,Heat,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,,,,2:24 PM
+397,0,8,415,20001116,SUB: Majerle FOR Carter,,2:40,4,4,4,0,1853,Anthony Carter,MIA,Miami,1610612748,Heat,105,Dan Majerle,MIA,Miami,1610612748,Heat,0,,,,,,,,,2:24 PM
+398,0,8,416,20001116,,,2:40,4,5,5,0,238,Tyrone Hill,PHI,Philadelphia,1610612755,76ers,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Lynch FOR Hill,2:24 PM
+399,10,3,417,20001116,,,2:40,4,5,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS McKie Free Throw 1 of 1,2:24 PM
+400,0,4,418,20001116,Mason REBOUND (Off:3 Def:11),,2:38,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:24 PM
+401,1,1,419,20001116,Mourning 17' Jump Shot (18 PTS),,2:17,4,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,77 - 77,TIE,,2:25 PM
+402,1,1,420,20001116,,,1:53,4,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,79 - 77,-2,Iverson 14' Jump Shot (41 PTS),2:25 PM
+403,40,2,421,20001116,MISS Bowen  Layup,,1:43,4,4,0,5,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,,,Mutombo BLOCK (1 BLK),2:25 PM
+404,0,4,422,20001116,Mourning REBOUND (Off:4 Def:11),,1:43,4,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:26 PM
+405,5,1,423,20001116,Mourning  Layup (20 PTS),,1:42,4,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,79 - 79,TIE,,2:26 PM
+406,1,2,424,20001116,Mourning BLOCK (2 BLK),,1:25,4,5,0,4,947,Allen Iverson,PHI,Philadelphia,1610612755,76ers,0,,,,,,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,,,MISS Iverson 6' Jump Shot,2:26 PM
+407,0,4,425,20001116,Mourning REBOUND (Off:4 Def:12),,1:23,4,4,0,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:26 PM
+408,1,1,426,20001116,Mason 16' Jump Shot (16 PTS) (Bowen 3 AST),,1:16,4,4,4,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,79 - 81,2,,2:26 PM
+409,2,5,427,20001116,,,0:58,4,5,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,McKie Lost Ball Turnover (P5.T14),2:26 PM
+410,1,2,428,20001116,MISS Hardaway 25' 3PT Jump Shot,,0:41,4,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:27 PM
+411,0,4,429,20001116,Mason REBOUND (Off:4 Def:11),,0:39,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:27 PM
+412,3,2,430,20001116,MISS Mason 5' Hook Shot,,0:28,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:27 PM
+413,0,4,431,20001116,,,0:26,4,5,0,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Lynch REBOUND (Off:1 Def:6),2:27 PM
+414,1,2,432,20001116,,,0:19,4,5,0,0,727,Eric Snow,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Snow 24' 3PT Jump Shot,2:27 PM
+415,0,4,433,20001116,,,0:18,4,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:3 Def:9),2:27 PM
+416,3,1,434,20001116,,,0:17,4,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,81 - 81,TIE,Mutombo 5' Hook Shot (5 PTS),2:27 PM
+417,2,6,435,20001116,Mason S.FOUL (P3.PN),,0:17,4,4,0,1,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:27 PM
+418,10,3,436,20001116,,,0:17,4,5,0,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS Mutombo Free Throw 1 of 1,2:28 PM
+419,0,4,437,20001116,Mason REBOUND (Off:4 Def:12),,0:16,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:28 PM
+420,1,9,438,20001116,HEAT Timeout: Regular (Full 5 Short 1),,0:16,4,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,2:28 PM
+421,1,1,440,20001116,Hardaway 22' Jump Shot (11 PTS) (Mason 3 AST),,0:05,4,4,4,0,896,Tim Hardaway,MIA,Miami,1610612748,Heat,193,Anthony Mason,MIA,Miami,1610612748,Heat,0,,,,,,81 - 83,2,,2:30 PM
+422,1,9,441,20001116,,,0:05,4,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.5 Short 1),2:31 PM
+423,0,8,442,20001116,,,0:05,4,5,5,0,248,George Lynch,PHI,Philadelphia,1610612755,76ers,1934,Rodney Buford,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Buford FOR Lynch,2:33 PM
+424,0,8,443,20001116,,,0:05,4,5,5,0,87,Dikembe Mutombo,PHI,Philadelphia,1610612755,76ers,1908,Jumaine Jones,PHI,Philadelphia,1610612755,76ers,0,,,,,,,,SUB: Jones FOR Mutombo,2:33 PM
+425,0,8,444,20001116,SUB: Carter FOR Mourning,,0:05,4,4,4,0,297,Alonzo Mourning,MIA,Miami,1610612748,Heat,1853,Anthony Carter,MIA,Miami,1610612748,Heat,0,,,,,,,,,2:33 PM
+426,1,2,445,20001116,,,0:00,4,5,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755,76ers,0,,,,,,0,,,,,,,,MISS McKie 25' 3PT Jump Shot,2:33 PM
+427,0,4,446,20001116,Bowen REBOUND (Off:0 Def:2),,0:00,4,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748,Heat,0,,,,,,0,,,,,,,,,2:34 PM
+428,0,13,447,20001116,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,81 - 83,2,,2:34 PM
+0,0,12,0,20000520,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,1:38 PM
+1,0,10,1,20000520,Jump Ball Ewing vs. Reeves: Tip to Payton,,12:00,1,4,5,4,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,735,Bryant Reeves,VAN,Vancouver,1610612763,Grizzlies,56,Gary Payton,SEA,Seattle,1610612760,SuperSonics,,,,2:15 PM
+2,1,1,2,20000520,Ewing 8' Jump Shot (2 PTS) (Patterson 1 AST),,11:41,1,4,4,0,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,1739,Ruben Patterson,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0 - 2,2,,2:15 PM
+3,1,2,3,20000520,Patterson BLOCK (1 BLK),,11:28,1,5,0,4,970,Othella Harrington,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,1739,Ruben Patterson,SEA,Seattle,1610612760,SuperSonics,,,MISS Harrington 4' Jump Shot,2:15 PM
+4,0,4,4,20000520,,,11:25,1,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,,,Bibby REBOUND (Off:1 Def:0),2:15 PM
+5,1,1,5,20000520,,,11:22,1,5,5,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,2-Feb,TIE,Abdur-Rahim 7' Jump Shot (2 PTS) (Bibby 1 AST),2:15 PM
+6,4,5,6,20000520,Patterson Traveling Turnover (P1.T1),,11:15,1,4,0,1,1739,Ruben Patterson,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:15 PM
+7,1,2,8,20000520,,,11:00,1,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,,,MISS Abdur-Rahim 24' 3PT Jump Shot,2:16 PM
+8,0,4,9,20000520,Ewing REBOUND (Off:0 Def:1),,10:58,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:16 PM
+9,1,1,10,20000520,Payton 17' Jump Shot (2 PTS),,10:52,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,4-Feb,2,,2:16 PM
+10,1,1,11,20000520,,,10:34,1,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,4-Apr,TIE,Dickerson 18' Jump Shot (2 PTS),2:16 PM
+11,1,2,12,20000520,MISS Ewing 3' Jump Shot,,10:19,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:16 PM
+12,0,4,13,20000520,,,10:17,1,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,,,Reeves REBOUND (Off:0 Def:1),2:17 PM
+13,1,1,14,20000520,,,10:10,1,5,5,0,970,Othella Harrington,VAN,Vancouver,1610612763,Grizzlies,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,4-Jun,-2,Harrington 9' Jump Shot (2 PTS) (Abdur-Rahim 1 AST),2:17 PM
+14,1,1,15,20000520,Patterson 9' Jump Shot (2 PTS) (Payton 1 AST),,9:50,1,4,4,0,1739,Ruben Patterson,SEA,Seattle,1610612760,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760,SuperSonics,0,,,,,,6-Jun,TIE,,2:17 PM
+15,1,6,16,20000520,Payton P.FOUL (P1.T1),,9:34,1,4,0,1,56,Gary Payton,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:17 PM
+16,1,5,17,20000520,Ewing STEAL (1 STL),,9:34,1,5,4,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763,Grizzlies,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,0,,,,,,,,Abdur-Rahim Bad Pass Turnover (P1.T1),2:18 PM
+17,49,1,18,20000520,Ewing  Driving Dunk (4 PTS),,9:29,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,8-Jun,2,,2:18 PM
+18,1,1,19,20000520,,,9:13,1,5,5,0,735,Bryant Reeves,VAN,Vancouver,1610612763,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,8-Aug,TIE,Reeves 16' Jump Shot (2 PTS) (Bibby 2 AST),2:18 PM
+19,5,1,20,20000520,Lewis  Layup (2 PTS) (Patterson 2 AST),,8:50,1,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760,SuperSonics,1739,Ruben Patterson,SEA,Seattle,1610612760,SuperSonics,0,,,,,,10-Aug,2,,2:19 PM
+20,2,6,21,20000520,Ewing S.FOUL (P1.T2),,8:29,1,4,0,1,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:19 PM
+21,11,3,22,20000520,,,8:29,1,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,10-Sep,1,Reeves Free Throw 1 of 2 (3 PTS),2:19 PM
+22,12,3,23,20000520,,,8:29,1,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,10-Oct,TIE,Reeves Free Throw 2 of 2 (4 PTS),2:19 PM
+23,1,2,25,20000520,MISS Patterson 5' Jump Shot,,8:17,1,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:20 PM
+24,0,4,26,20000520,,,8:15,1,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,2:20 PM
+25,1,2,27,20000520,,,7:57,1,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,,,MISS Dickerson 16' Jump Shot,2:20 PM
+26,0,4,28,20000520,Ewing REBOUND (Off:0 Def:2),,7:56,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:20 PM
+27,8,1,29,20000520,Patterson  Slam Dunk (4 PTS) (Davis 1 AST),,7:52,1,4,4,0,1739,Ruben Patterson,SEA,Seattle,1610612760,SuperSonics,1023,Emanual Davis,SEA,Seattle,1610612760,SuperSonics,0,,,,,,12-Oct,2,,2:20 PM
+28,5,1,30,20000520,,,7:29,1,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,12-Dec,TIE,Reeves  Layup (6 PTS),2:21 PM
+29,2,6,31,20000520,Patterson S.FOUL (P1.T3),,7:29,1,4,0,1,1739,Ruben Patterson,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:21 PM
+30,10,3,32,20000520,,,7:29,1,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,13 - 12,-1,Reeves Free Throw 1 of 1 (7 PTS),2:21 PM
+31,1,2,33,20000520,MISS Payton 13' Jump Shot,,7:09,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:22 PM
+32,0,4,34,20000520,Ewing REBOUND (Off:1 Def:2),,7:08,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:22 PM
+33,2,6,35,20000520,,,7:08,1,5,0,1,970,Othella Harrington,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,,,Harrington S.FOUL (P1.T1),2:22 PM
+34,11,3,36,20000520,Ewing Free Throw 1 of 2 (5 PTS),,7:08,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,13 - 13,TIE,,2:22 PM
+35,12,3,37,20000520,Ewing Free Throw 2 of 2 (6 PTS),,7:08,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,13 - 14,1,,2:22 PM
+36,1,2,38,20000520,,,6:52,1,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,,,MISS Bibby 25' 3PT Jump Shot,2:22 PM
+37,0,4,39,20000520,SUPERSONICS Rebound,,6:51,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,2:22 PM
+38,1,2,40,20000520,MISS Lewis 21' Jump Shot,,6:41,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:23 PM
+39,0,4,41,20000520,,,6:39,1,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,,,Dickerson REBOUND (Off:0 Def:1),2:23 PM
+40,1,6,42,20000520,Lewis P.FOUL (P1.T4),,6:35,1,4,0,1,1740,Rashard Lewis,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:23 PM
+41,1,1,43,20000520,,,6:25,1,5,5,0,1710,Mike Bibby,VAN,Vancouver,1610612763,Grizzlies,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,16 - 14,-2,Bibby 26' 3PT Jump Shot (3 PTS) (Abdur-Rahim 2 AST),2:23 PM
+42,1,2,44,20000520,MISS Payton 13' Jump Shot,,6:09,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:24 PM
+43,0,4,45,20000520,,,6:08,1,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim REBOUND (Off:0 Def:1),2:24 PM
+44,1,6,48,20000520,Patterson P.FOUL (P2.PN),,5:54,1,4,0,1,1739,Ruben Patterson,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:24 PM
+45,1,9,49,20000520,SUPERSONICS Timeout: Regular (Full 1 Short 0),,5:54,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,2:24 PM
+46,11,3,51,20000520,,,5:54,1,5,0,0,970,Othella Harrington,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,,,MISS Harrington Free Throw 1 of 2,2:26 PM
+47,1,4,52,20000520,,,5:54,1,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,2:26 PM
+48,12,3,53,20000520,,,5:54,1,5,0,0,970,Othella Harrington,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,17 - 14,-3,Harrington Free Throw 2 of 2 (3 PTS),2:27 PM
+49,1,1,54,20000520,Lewis 21' Jump Shot (4 PTS) (Payton 2 AST),,5:39,1,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760,SuperSonics,0,,,,,,17 - 16,-1,,2:27 PM
+50,1,1,55,20000520,,,5:20,1,5,5,0,735,Bryant Reeves,VAN,Vancouver,1610612763,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,19 - 16,-3,Reeves 6' Jump Shot (9 PTS) (Bibby 3 AST),2:27 PM
+51,1,1,56,20000520,Lewis 5' Jump Shot (6 PTS) (Davis 2 AST),,5:00,1,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760,SuperSonics,1023,Emanual Davis,SEA,Seattle,1610612760,SuperSonics,0,,,,,,19 - 18,-1,,2:28 PM
+52,5,2,57,20000520,,,4:54,1,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,,,MISS Reeves  Layup,2:28 PM
+53,0,4,58,20000520,Lewis REBOUND (Off:0 Def:1),,4:52,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:28 PM
+54,1,5,59,20000520,Davis Bad Pass Turnover (P1.T2),,4:48,1,4,0,0,1023,Emanual Davis,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:28 PM
+55,1,2,60,20000520,,,4:34,1,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,,,MISS Abdur-Rahim 19' Jump Shot,2:28 PM
+56,0,4,61,20000520,Ewing REBOUND (Off:1 Def:3),,4:33,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:28 PM
+57,42,1,62,20000520,Payton 3' Driving Layup (4 PTS),,4:29,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,19 - 20,1,,2:28 PM
+58,1,1,63,20000520,,,4:12,1,5,5,0,1722,Michael Dickerson,VAN,Vancouver,1610612763,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,21 - 20,-1,Dickerson 14' Jump Shot (4 PTS) (Bibby 4 AST),2:29 PM
+59,5,1,64,20000520,Patterson  Layup (6 PTS) (Payton 3 AST),,4:04,1,4,4,0,1739,Ruben Patterson,SEA,Seattle,1610612760,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760,SuperSonics,0,,,,,,21 - 22,1,,2:29 PM
+60,1,1,65,20000520,,,3:50,1,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,23 - 22,-1,Bibby 18' Jump Shot (5 PTS),2:29 PM
+61,2,6,66,20000520,,,3:25,1,5,0,1,735,Bryant Reeves,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,,,Reeves S.FOUL (P1.T2),2:30 PM
+62,0,8,67,20000520,,,3:25,1,5,5,0,970,Othella Harrington,VAN,Vancouver,1610612763,Grizzlies,1800,Damon Jones,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,,,SUB: Jones FOR Harrington,2:30 PM
+63,11,3,68,20000520,MISS Ewing Free Throw 1 of 2,,3:25,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,,,,2:30 PM
+64,1,4,69,20000520,SUPERSONICS Rebound,,3:25,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,2:30 PM
+65,12,3,70,20000520,Ewing Free Throw 2 of 2 (7 PTS),,3:25,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760,SuperSonics,0,,,,,,0,,,,,,23 - 23,TIE,,2:30 PM
+66,2,5,72,20000520,Davis STEAL (1 STL),,3:18,1,5,4,0,1710,Mike Bibby,VAN,Vancouver,1610612763,Grizzlies,1023,Emanual Davis,SEA,Seattle,1610612760,SuperSonics,0,,,,,,,,Bibby Lost Ball Turnover (P1.T2),2:30 PM
+67,42,1,73,20000520,Payton  Driving Layup (6 PTS) (Davis 3 AST),,3:14,1,4,4,0,56,Gary Payton,SEA,Seattle,1610612760,SuperSonics,1023,Emanual Davis,SEA,Seattle,1610612760,SuperSonics,0,,,,,,23 - 25,2,,2:30 PM
+68,5,2,74,20000520,,,3:02,1,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763,Grizzlies,0,,,,,,0,,,,,,,,MISS Dickerson 2' Layup,2:31 PM
+69,0,4,75,20000520,SUPERSONICS Rebound,,2:59,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,2:31 PM
