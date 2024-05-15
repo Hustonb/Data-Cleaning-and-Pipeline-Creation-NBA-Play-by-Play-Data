@@ -1,4 +1,4 @@
-# Data-Cleaning-and-Pipeline-Creation-NBA-Play-by-Play-Data
+# Data Cleaning and Pipeline Creation, NBA Play-by-Play Data.
 
 ### Description and motivation:
 This project showcases my proficiency in data cleaning and ETL pipeline creation using Python: specifically the Pandas library. 
