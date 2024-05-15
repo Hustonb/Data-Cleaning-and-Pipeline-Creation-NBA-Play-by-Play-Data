@@ -8,8 +8,8 @@ The motivating question behind this project was what are the most efficient type
 To follow along with this project for yourself, open the “Data Cleaning and Pipeline Creation” Jupyter Notebook in this repository.
 
 ### Project process:
-The data being used is five similarly formatted csv files (each containing Play-by-Play data for a different NBA season), which I'll build a data pipeline for, then combine to perform further analysis on.
-The Data Cleaning and Pipeline Creation file is the code used to clean the data and resulting outputs. The CSV file demonstrates the data used for this project.
+The data being used is five similarly formatted csv files (each containing Play-by-Play data for a different NBA season).
+The 2000-01_pbp_demo.csv file demonstrates the raw data used for this project.
  
 ### References:
 https://www.basketball-reference.com/ 
